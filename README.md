@@ -9,10 +9,11 @@ Contributor
 * Radite Putut <radith412@gmail.com>
 * Yanuar Arafat <cingicanga@gmail.com>
 * Lukman <ada.lukmandisini@gmail.com>
+* Rendra Yanuar <mhzdyr@gmail.com>
 
 License
 =======
 
-Attribution-ShareAlike 
+Attribution-ShareAlike
 
 CC BY-SA

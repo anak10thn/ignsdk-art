@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="800"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="shark_logo.svg">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath14724">
+      <rect
+         style="fill:#000506;fill-opacity:1;stroke:none"
+         id="rect14726"
+         width="275"
+         height="135"
+         x="405"
+         y="782.36218"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath14854">
+      <rect
+         style="fill:#000506;fill-opacity:1;stroke:none"
+         id="rect14856"
+         width="470"
+         height="230"
+         x="360"
+         y="822.36218" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8556">
+      <rect
+         style="fill:#f9eabf;fill-opacity:1;stroke:none"
+         id="rect8558"
+         width="400"
+         height="340"
+         x="540"
+         y="792.36218" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8811">
+      <rect
+         style="fill:#f9eabf;fill-opacity:1;stroke:none"
+         id="rect8813"
+         width="420"
+         height="340"
+         x="500"
+         y="792.36218" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="250.41566"
+     inkscape:cy="474.0324"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1024"
+     inkscape:window-height="518"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-252.36218)">
+    <g
+       id="g3797"
+       transform="matrix(0.81319818,0,0,0.81319818,40.634142,196.06582)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/igos/Desktop/shark.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path30774"
+         d="M 5.5468508,783.63649 186.21544,753.25897 164.9459,849.76678 z"
+         style="fill:#3198cc;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/igos/Desktop/shark.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path30776"
+         d="m 33.687151,817.21299 43.88736,-3.70564 87.371389,36.25943 z"
+         style="fill:#3198cc;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/igos/Desktop/shark.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path30778"
+         d="m 164.9459,849.76678 93.22414,39.39586 -31.52078,-37.91632 z"
+         style="fill:#2484b4;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/igos/Desktop/shark.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path30780"
+         d="M 186.21544,753.25897 338.11409,853.98726 164.9459,849.76678 z"
+         style="fill:#e2e9f5;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/igos/Desktop/shark.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path30782"
+         d="m 297.82229,853.02793 24.30299,20.60272 15.98881,-19.64339 z"
+         style="fill:#2484b4;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/igos/Desktop/shark.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path30784"
+         d="m 186.21544,753.25897 c 95.0893,14.60271 190.16659,29.20588 285.24609,43.80859 l -133.34744,56.9197 z"
+         style="fill:#3198cc;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/igos/Desktop/shark.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path30786"
+         d="m 236.42247,760.966 55.32407,-44.48251 7.90249,54.19344 z"
+         style="fill:#2484b4;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/igos/Desktop/shark.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path30788"
+         d="m 440.39903,792.29803 60.79687,-50.21875 -29.73437,54.98828 z"
+         style="fill:#2484b4;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/igos/Desktop/shark.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path30790"
+         d="m 440.39903,810.32015 49.83717,29.04877 -18.77467,-42.30136 z"
+         style="fill:#2484b4;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/igos/Desktop/shark.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path30792"
+         d="m 501.1959,742.07928 16.6324,-1.61257 -26.9918,20.76882 z"
+         style="fill:#2484b4;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/igos/Desktop/shark.png"
+         inkscape:connector-curvature="0"
+         id="path30794"
+         d="m 70.026231,787.18527 c 0,2.94101 -2.38416,5.32518 -5.32517,5.32518 -2.94101,0 -5.3252,-2.38417 -5.3252,-5.32518 0,-2.94102 2.38419,-5.32519 5.3252,-5.32519 2.94101,0 5.32517,2.38417 5.32517,5.32519 z"
+         style="fill:#dbe3e2;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/igos/Desktop/shark.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path30798"
+         d="m 387.08262,784.11053 27.77776,-11.6662 7.95902,17.13188 z"
+         style="fill:#2484b4;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/igos/Desktop/shark.png"
+         style="fill:#2484b4;fill-opacity:1;stroke:none"
+         d="m 387.08262,833.08643 32.5744,3.31314 3.16238,-18.59121 z"
+         id="path30802"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/igos/Desktop/shark.png"
+         style="fill:#1c2422;fill-opacity:1;stroke:none"
+         d="m 67.688761,787.18527 c 0,1.65007 -1.33762,2.98772 -2.9877,2.98772 -1.65008,0 -2.98773,-1.33765 -2.98773,-2.98772 0,-1.65008 1.33765,-2.98773 2.98773,-2.98773 1.65008,0 2.9877,1.33765 2.9877,2.98773 z"
+         id="path30809"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g3773"
+       transform="matrix(0.91848488,0,0,0.91848488,-472.51291,30.497566)">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path8815"
+         d="m 704.01437,349.59853 85.01037,50.65246 -74.4551,31.58914 z"
+         style="fill:#2484b4;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path8817"
+         d="m 789.02474,400.25099 82.1594,-2.69733 -79.75054,56.85539 z"
+         style="fill:#3198cc;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path8819"
+         d="m 871.18414,397.55366 103.93672,28.10056 -183.68483,28.75371 z"
+         style="fill:#3198cc;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path8821"
+         d="M 975.12086,425.65422 942.06101,456.73321 860.1457,443.62496 z"
+         style="fill:#e2e9f5;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path8823"
+         d="m 827.90803,499.52548 60.41636,-11.98426 -4.25035,60.27748 z"
+         style="fill:#e2e9f5;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path8825"
+         d="m 888.50952,448.33164 35.24562,22.60911 -35.51884,16.70069 z"
+         style="fill:#e2e9f5;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path8827"
+         d="m 827.90803,499.52548 60.57329,-51.19118 -0.18109,39.20692 z"
+         style="fill:#e2e9f5;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path8829"
+         d="m 714.56964,431.84013 -42.28839,69.46345 119.15478,-46.89565 z"
+         style="fill:#3198cc;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path8831"
+         d="m 714.56964,431.84013 74.4551,-31.58914 2.41129,54.15694 z"
+         style="fill:#3198cc;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path8833"
+         d="m 791.43603,454.40793 36.472,45.11755 32.23767,-55.90052 z"
+         style="fill:#e2e9f5;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path8835"
+         d="m 888.501,448.38287 -28.3553,-4.75791 -32.23767,55.90052 z"
+         style="fill:#e2e9f5;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path8841"
+         d="m 708.8125,590.26843 22.24947,85.06032 21.63497,-64.86767 z"
+         style="fill:#2484b4;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path8843"
+         d="m 708.80537,590.26437 31.55073,-23.66144 12.34084,43.85815 z"
+         style="fill:#e2e9f5;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path8845"
+         d="m 740.35922,566.6047 109.89924,57.88675 -97.56152,-14.03037 z"
+         style="fill:#2484b4;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path8847"
+         d="M 672.28125,501.30358 714.56911,431.8372 607.09098,499.35582 z"
+         style="fill:#2484b4;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path8853"
+         d="m 791.43603,454.40793 36.472,45.11755 -68.7635,7.91873 z"
+         style="fill:#e2e9f5;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path8857"
+         d="m 708.80849,590.26614 31.55073,-23.66144 18.78531,-59.16049 z"
+         style="fill:#e2e9f5;fill-opacity:1;stroke:none" />
+      <g
+         transform="matrix(0.97365866,0,0,0.97365866,468.97736,-449.63805)"
+         id="g8903">
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/igos/Desktop/shark.png"
+           inkscape:connector-curvature="0"
+           id="path8899"
+           d="m 466.56682,896.37439 c 0,2.94101 -2.38416,5.32518 -5.32517,5.32518 -2.94101,0 -5.3252,-2.38417 -5.3252,-5.32518 0,-2.94102 2.38419,-5.32519 5.3252,-5.32519 2.94101,0 5.32517,2.38417 5.32517,5.32519 z"
+           style="fill:#dbe3e2;fill-opacity:1;stroke:none" />
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/igos/Desktop/shark.png"
+           style="fill:#1c2422;fill-opacity:1;stroke:none"
+           d="m 464.22935,896.37439 c 0,1.65007 -1.33762,2.98772 -2.9877,2.98772 -1.65008,0 -2.98773,-1.33765 -2.98773,-2.98772 0,-1.65008 1.33765,-2.98773 2.98773,-2.98773 1.65008,0 2.9877,1.33765 2.9877,2.98773 z"
+           id="path8901"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         sodipodi:nodetypes="cccc"
+         transform="translate(0,308.2677)"
+         inkscape:connector-curvature="0"
+         id="path3730"
+         d="M 672.28125,193.03588 721.86764,173.45931 708.8125,282.00073 z"
+         style="fill:#3198cc;fill-opacity:1;stroke:none" />
+      <path
+         transform="translate(0,308.2677)"
+         inkscape:connector-curvature="0"
+         id="path3738"
+         d="M 721.86764,173.45931 791.4336,146.14135 708.8125,282.00073 z"
+         style="fill:#e2e9f5;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+</svg>
